@@ -2,7 +2,6 @@
 //  mertonmodel.hpp
 //  credit risk
 //
-//  Created by Oliver on 7/17/23.
 //
 
 #ifndef mertonmodel_hpp
