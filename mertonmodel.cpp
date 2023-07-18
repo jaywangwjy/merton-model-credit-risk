@@ -2,7 +2,6 @@
 //  mertonmodel.cpp
 //  credit risk
 //
-//  Created by Oliver on 7/17/23.
 //
 
 #include "mertonmodel.hpp"
