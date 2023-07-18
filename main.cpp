@@ -16,10 +16,10 @@ double equity = 3;     //E0
 double debt = 10;      //D
 double rf_rate = 0.05; //risk free rate
 double sigmaE = 0.8;   //equity volatility
-double timeT = 1;	   //time
+double timeT = 1;      //time
 
 double value0 = equity * sigmaE + debt;  //Value of company’s assets today V0
-double sigmaV = mertonmodel();			 //volatility of total asset sigmaV
+double sigmaV = mertonmodel();		 //volatility of total asset sigmaV
 
 
 int main() {
