@@ -2,8 +2,6 @@
 //  main.cpp
 //  credit risk
 //
-//  Created by Oliver on 7/16/23.
-//
 //  Using equity price to estimate default probabilities (hull chapter 24.6)
 
 #include <iostream>
